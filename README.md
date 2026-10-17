@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banniere-gsn.png" alt="Groupe Solvaria Numérique" width="100%">
+</div>
+
+<br>
+
  <div align="center">
 
 # GROUPE SOLVARIA NUMÉRIQUE
