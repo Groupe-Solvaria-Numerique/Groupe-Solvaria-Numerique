@@ -18,7 +18,7 @@
 
 </div>
 
-## Présentation
+## Présentation de GSN
 
 Le **Groupe Solvaria Numérique (GSN)** est un projet de développement numérique ayant pour vocation de réunir, structurer et faire évoluer plusieurs services et initiatives au sein d'un même environnement.
 
