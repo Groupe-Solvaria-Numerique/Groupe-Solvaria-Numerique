@@ -2,85 +2,104 @@
 
 # GROUPE SOLVARIA NUMÉRIQUE
 
-### L'innovation numérique au service des projets de demain.
+### Pôle de développement et de services numériques
 
-**GSN** — Une organisation dédiée à la conception et au développement de services numériques.
+**Concevoir des services. Développer des solutions. Construire l'avenir numérique.**
 
-[Nos projets](#-nos-projets) · [Nos domaines](#-nos-domaines) · [Notre vision](#-notre-vision)
+[Présentation](#présentation) · [Nos pôles](#nos-pôles-et-projets) · [Nos engagements](#nos-engagements)
 
 ---
 
 </div>
 
-## 🌐 À propos
+## Présentation
 
-Le **Groupe Solvaria Numérique (GSN)** est un projet en développement visant à réunir plusieurs services et initiatives numériques au sein d'un même environnement.
+Le **Groupe Solvaria Numérique (GSN)** est un projet de développement numérique ayant pour vocation de réunir, structurer et faire évoluer plusieurs services et initiatives au sein d'un même environnement.
 
-Notre objectif est de concevoir, développer et faire évoluer des solutions numériques utiles, accessibles et adaptées aux besoins de leurs utilisateurs.
+À travers ses différents projets, GSN explore la conception de plateformes web, le développement d'outils numériques et la mise en place de services adaptés à des usages variés, notamment dans les domaines de l'éducation et de la vie numérique.
 
-À travers nos différents projets, nous explorons la création de plateformes web, d'outils en ligne et de services destinés à faciliter les usages numériques.
+Notre démarche repose sur une vision commune : proposer des services cohérents, soigner leur conception et construire progressivement un écosystème numérique identifiable et évolutif.
 
-## 🚀 Nos projets
+## Nos pôles et projets
 
-### 🏫 Plamix
+### Académie de Solvaria
 
-Une plateforme numérique liée à l'environnement scolaire, pensée pour réunir des services et des outils destinés à faciliter la vie numérique des établissements et de leurs utilisateurs.
+**Environnement éducatif numérique**
 
-### 🛣️ Prioriroute
+L'Académie de Solvaria est un projet consacré à la création d'un environnement éducatif numérique. Elle constitue un cadre de développement pour des initiatives liées à la vie scolaire, aux établissements et aux services numériques éducatifs.
 
-Un service numérique consacré à la sécurité routière et aux attestations associées, conçu pour accompagner les établissements dans leurs démarches.
+Ses projets visent à explorer des outils permettant d'organiser les services scolaires et de faciliter les usages numériques associés.
 
-### ✨ Autres projets à venir
+### Plamix
 
-GSN a vocation à accueillir de nouveaux projets et services numériques au fil de son développement.
+**Plateforme numérique scolaire**
 
-*Les projets évoluent progressivement et leurs fonctionnalités peuvent être amenées à changer.*
+Plamix est un projet de plateforme numérique orientée vers l'environnement scolaire. Il vise à réunir des fonctionnalités et des outils destinés à accompagner les usages numériques des établissements et de leurs utilisateurs.
 
-## 💻 Nos domaines
+Le projet s'inscrit dans une démarche d'évolution progressive, avec une attention portée à l'organisation des services et à l'expérience utilisateur.
 
-- **Développement web** — conception et évolution de plateformes en ligne.
-- **Services numériques** — création d'outils et de services accessibles sur le Web.
-- **Solutions éducatives** — exploration de services numériques adaptés aux besoins scolaires.
-- **Innovation** — expérimentation de nouvelles idées et amélioration continue des projets.
+### Prioriroute
 
-## 🎯 Notre vision
+**Services numériques liés à la sécurité routière**
 
-Nous souhaitons construire un écosystème numérique cohérent, dans lequel chaque projet possède sa propre identité tout en pouvant s'inscrire dans une vision commune.
+Prioriroute est un service numérique consacré à la sécurité routière et aux attestations associées. Il a pour objectif de proposer un environnement permettant aux établissements concernés de gérer les usages prévus par le service.
 
-Nos priorités :
+### Projets futurs
 
-- Concevoir des services simples à utiliser.
-- Développer des projets évolutifs.
-- Soigner l'expérience utilisateur.
-- Favoriser la cohérence entre les différents services.
-- Faire progresser les projets étape par étape.
+**Développement et diversification**
 
-## 🧩 Notre fonctionnement
+GSN a vocation à accueillir de nouvelles initiatives numériques au fil de son évolution. Ces projets pourront couvrir différents domaines, selon les besoins identifiés et les orientations retenues.
 
-GSN rassemble plusieurs initiatives numériques qui peuvent répondre à des besoins différents.
+## Nos domaines d'activité
 
-Chaque projet dispose de son propre objectif et de son propre périmètre. Les services présentés évoluent selon leur avancement et les possibilités de développement.
+- **Conception et développement web** — création et évolution de plateformes en ligne.
+- **Services numériques** — développement d'outils et d'environnements accessibles sur le Web.
+- **Numérique éducatif** — exploration de solutions destinées aux usages scolaires.
+- **Conception de plateformes** — structuration des services et amélioration des parcours utilisateurs.
+- **Innovation numérique** — expérimentation, évolution et amélioration continue des projets.
 
-## 📈 Un projet en développement
+## Notre vision
 
-Le Groupe Solvaria Numérique poursuit la construction de son environnement numérique.
+Nous considérons le numérique comme un environnement dans lequel des services complémentaires peuvent être développés autour d'objectifs communs.
 
-Cette page sera mise à jour au fur et à mesure de l'évolution des projets, de la publication de nouveaux dépôts et de l'ajout de ressources publiques.
+GSN vise à favoriser la cohérence entre ses projets tout en préservant l'identité, les objectifs et le fonctionnement propres à chacun d'eux.
 
-## 🤝 Collaborations
+Notre ambition est de construire progressivement un ensemble de services numériques organisé, identifiable et capable d'évoluer dans le temps.
 
-Les idées, retours et contributions constructives sont les bienvenus lorsqu'un projet est ouvert à la collaboration.
+## Nos engagements
 
-Pour participer, consultez les dépôts publics concernés et leurs éventuelles consignes de contribution.
+**Qualité de conception**
+
+Porter une attention particulière à la lisibilité, à l'organisation et à l'expérience utilisateur.
+
+**Évolution continue**
+
+Faire progresser les projets par étapes, en tenant compte de leurs objectifs et de leurs possibilités techniques.
+
+**Cohérence numérique**
+
+Développer une identité commune tout en laissant à chaque service son propre positionnement.
+
+**Transparence**
+
+Présenter clairement l'état d'avancement des projets et distinguer les fonctionnalités disponibles des évolutions envisagées.
+
+## Développement et perspectives
+
+Le Groupe Solvaria Numérique est actuellement en développement. Ses projets évoluent progressivement et leur périmètre peut être amené à changer.
+
+Ce dépôt a vocation à présenter l'identité du groupe, ses orientations et les initiatives qui s'inscrivent dans son environnement numérique.
+
+Les informations relatives aux technologies, aux fonctionnalités et aux collaborations seront précisées au fur et à mesure de leur confirmation.
 
 ---
 
 <div align="center">
 
-**GROUPE SOLVARIA NUMÉRIQUE · GSN**
+**GROUPE SOLVARIA NUMÉRIQUE**
 
-*Imaginer. Développer. Faire évoluer.*
+*Concevoir · Structurer · Développer*
 
-<sub>© Groupe Solvaria Numérique — Présentation du projet en développement.</sub>
+<sub>GSN — Projet numérique en développement.</sub>
 
 </div>
