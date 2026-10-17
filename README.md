@@ -1,8 +1,23 @@
+
 <div align="center">
-  <img src="banniere-gsn.png" alt="Groupe Solvaria Numérique" width="100%">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="banniere-gsn-dark.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="banniere-gsn-light.png"
+    />
+    <img
+      alt="Groupe Solvaria Numérique — Concevoir, Structurer, Développer"
+      src="banniere-gsn-light.png"
+      width="100%"
+    />
+  </picture>
 </div>
 
-<br>
+<br />
 
  <div align="center">
 
